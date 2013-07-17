@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Skroller Feature feature.
+ */
+
+include_once 'skroller_feature.features.inc';

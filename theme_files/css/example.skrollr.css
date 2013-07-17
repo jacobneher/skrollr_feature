@@ -5,6 +5,7 @@
 
 /* This style is required to get the initial layout correct */
 div.view-id-skrollr .views-row {
+  background-color: #FFF; /* Set the initial background to white for all psuedo "pages" to create a skeleton effect, otherwise elements from other "pages" will show */
   height: 1000px; /* Seta large height for the backgrounds and to create psuedo "pages" */
   width: 100%; /* Not sure that this is needed, but just in case... */
   max-width: 1920px; /*...not sure if this is required either, still playing around with it */
